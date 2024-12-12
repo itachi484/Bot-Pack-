@@ -3,7 +3,7 @@ const { resolve } = require("path");
 const request = require("request");
 
 module.exports.config = {
-    name: "admin",
+    name: "Ayaan",
     version: "1.0.5",
     hasPermission: 0,
     credits: "",
